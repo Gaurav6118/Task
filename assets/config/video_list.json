@@ -1,0 +1,88 @@
+{
+  "video": [
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "10",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "20",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "50",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "15",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "200",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "400",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "1K",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "0",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+    },
+    {
+      "user": "user9",
+      "isLike": false,
+      "likes": "250",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "40",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "60",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+    },
+    {
+      "user": "user",
+      "isLike": false,
+      "likes": "450",
+      "image": "https://picsum.photos/200/300",
+      "videoLink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+    }
+  ]
+}
